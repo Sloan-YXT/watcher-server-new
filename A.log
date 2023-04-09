@@ -1,0 +1,84 @@
+
+
+<AThread code==-1(stm32)>
+
+in line 1682(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1696(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1696(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1696(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1696(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<AThread recv==0|errno == ECONNRESET>
+
+in line 1643errno=104,Connection reset by peer
+
+<\AThread recv==0|errno == ECONNRESET>
+
+
+
+(on Mon Apr 10 05:18:49 2023
+)<AThread code==-1(stm32)>
+
+in line 1716(yaoxuetao's stm32f103)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+(on Mon Apr 10 05:39:09 2023
+)<AThread recv==0|errno == ECONNRESET>
+
+in line 1644errno=0,Success
+
+<\AThread recv==0|errno == ECONNRESET>
+
+
+
+(on Mon Apr 10 05:39:57 2023
+)<AThread recv==0|errno == ECONNRESET>
+
+in line 1644errno=0,Success
+
+<\AThread recv==0|errno == ECONNRESET>
+
+
+
+(on Mon Apr 10 05:42:33 2023
+)<AThread recv==0|errno == ECONNRESET>
+
+in line 1644errno=0,Success
+
+<\AThread recv==0|errno == ECONNRESET>
+

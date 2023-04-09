@@ -1,0 +1,8 @@
+1.nlohman json 
+2.mysql
+besides website tutorial:
+apt-get install libmysqlclient-dev 
+3.opencv
+besides website tutorial
+//this one if you don't use cmake is necessary, especially for vscode finding source file information
+sudo ln -s  /usr/local/include/opencv4/opencv2/ /usr/local/include/opencv2

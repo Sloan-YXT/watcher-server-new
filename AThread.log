@@ -1,0 +1,801 @@
+
+
+<message_buffer>
+
+in line 1633CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1633CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1633CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1633CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1634CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1637CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1648CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1648CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1638CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1638CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1638CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1683(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<message_buffer>
+
+in line 1638CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1638CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1648CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1649CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1697(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1697(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1697(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<AThread code==-1(stm32)>
+
+in line 1697(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+<message_buffer>
+
+in line 1661CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1661CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1651CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1651CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<AThread recv<0>
+
+in line 1637errno=110,Connection timed out
+
+<\AThread recv<0>
+
+
+
+<message_buffer>
+
+in line 1651yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1651yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<AThread recv==0|errno == ECONNRESET>
+
+in line 1642errno=104,Connection reset by peer
+
+<\AThread recv==0|errno == ECONNRESET>
+
+
+
+<message_buffer>
+
+in line 1651yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1651CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1651yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1651yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1656CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1656yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1650yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<AThread recv==0|errno == ECONNRESET>
+
+in line 1654errno=11,Resource temporarily unavailable
+
+<\AThread recv==0|errno == ECONNRESET>
+
+
+
+<message_buffer>
+
+in line 1645yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1644yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1644yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1644yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1644yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1644yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1644yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1644yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1644yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1645yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1645CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1645CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1645yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1649CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1649yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1649yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+<message_buffer>
+
+in line 1652yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Sun Apr  9 22:57:35 2023
+)<message_buffer>
+
+in line 1668CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Sun Apr  9 22:57:51 2023
+)<message_buffer>
+
+in line 1668yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Sun Apr  9 23:06:10 2023
+)<message_buffer>
+
+in line 1668yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Sun Apr  9 23:30:36 2023
+)<message_buffer>
+
+in line 1670CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Sun Apr  9 23:30:45 2023
+)<message_buffer>
+
+in line 1670yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Sun Apr  9 23:46:14 2023
+)<message_buffer>
+
+in line 1670CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Sun Apr  9 23:46:25 2023
+)<message_buffer>
+
+in line 1670yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 01:18:54 2023
+)<message_buffer>
+
+in line 1670CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 01:19:39 2023
+)<message_buffer>
+
+in line 1670yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 01:41:31 2023
+)<message_buffer>
+
+in line 1665CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 01:41:41 2023
+)<message_buffer>
+
+in line 1665yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 03:46:06 2023
+)<message_buffer>
+
+in line 1671CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 03:49:04 2023
+)<message_buffer>
+
+in line 1671CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 04:38:31 2023
+)<message_buffer>
+
+in line 1672CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 05:04:21 2023
+)<message_buffer>
+
+in line 1672CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 05:09:05 2023
+)<message_buffer>
+
+in line 1672CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 05:17:39 2023
+)<message_buffer>
+
+in line 1672CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 05:17:56 2023
+)<message_buffer>
+
+in line 1672yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 05:18:48 2023
+)<message_buffer>
+
+in line 1672yaoxuetao's stm32f103
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 05:18:49 2023
+)<AThread code==-1(stm32)>
+
+in line 1717(yaoxuetao's stm32f103)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+(on Mon Apr 10 05:39:09 2023
+)<AThread recv==0|errno == ECONNRESET>
+
+in line 1643errno=0,Success
+
+<\AThread recv==0|errno == ECONNRESET>
+
+
+
+(on Mon Apr 10 05:39:57 2023
+)<AThread recv==0|errno == ECONNRESET>
+
+in line 1643errno=0,Success
+
+<\AThread recv==0|errno == ECONNRESET>
+
+
+
+(on Mon Apr 10 05:42:33 2023
+)<AThread recv==0|errno == ECONNRESET>
+
+in line 1643errno=0,Success
+
+<\AThread recv==0|errno == ECONNRESET>
+
+
+
+(on Mon Apr 10 06:39:31 2023
+)<message_buffer>
+
+in line 1673CA3 IOT NODE
+
+<\message_buffer>
+
+
+
+(on Mon Apr 10 06:49:55 2023
+)<message_buffer>
+
+in line 1673CA3 IOT NODE
+
+<\message_buffer>
+

@@ -1,0 +1,18268 @@
+
+
+<para>
+
+in line 692high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 748stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 692high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 748stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 692high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 748stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 692high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 748stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 749stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 699high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 755stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 749stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 749stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 749stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<n<0>
+
+in line 749stm32 recv data n < 17:n=0
+
+<\n<0>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 802recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 802recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.8;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.8;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.8;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.8;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.8;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.0;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.0;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.0;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.0;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.0;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.1;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 36.0;humi = 11
+
+
+<\data>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.6;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.5;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.4;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 31.2;humi = 11
+
+
+<\data>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.3;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<len rectify>
+
+in line 733stm32 recv data len!=36:len=858795570
+
+<\len rectify>
+
+
+
+<para>
+
+in line 693high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 802recv temp = 29.7;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.7;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 29.9;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.0;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.1;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 30.2;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 802recv temp = 35.0;humi = 11
+
+
+<\data>
+
+
+
+<para>
+
+in line 694high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 34.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 35.0;humi = 1
+
+
+<\data>
+
+
+
+<para>
+
+in line 694high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 803recv temp = 29.6;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.6;humi = 37.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.6;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.6;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.6;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 36.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 35.0
+
+
+<\data>
+
+
+
+<len rectify>
+
+in line 734stm32 recv data len!=36:len=9267
+
+<\len rectify>
+
+
+
+<para>
+
+in line 694high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.7;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 38.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.8;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 39.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 29.9;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 40.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.0;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.1;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.1;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.1;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.1;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.1;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.2;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 69.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 69.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 69.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 66.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 64.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 62.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 62.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 60.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 60.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 60.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 63.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 63.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 64.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 64.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 64.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 66.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 66.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 64.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 63.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 61.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 60.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 55.0
+
+
+<\data>
+
+
+
+<len rectify>
+
+in line 734stm32 recv data len!=36:len=858795576
+
+<\len rectify>
+
+
+
+<para>
+
+in line 694high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 31.0;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.9;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.8;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.7;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 41.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.6;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.5;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.4;humi = 42.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 30.3;humi = 42.0
+
+
+<\data>
+
+
+
+<len rectify>
+
+in line 734stm32 recv data len!=36:len=9267
+
+<\len rectify>
+
+
+
+<para>
+
+in line 694high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.3;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.3;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.3;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.2;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.2;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.2;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.2;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.2;humi = 58.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.0;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.0;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.1;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.9;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.0;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.0;humi = 57.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.9;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.9;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.9;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.9;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.9;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.9;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.8;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.7;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.6;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.6;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.6;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.6;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 56.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.5;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 55.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.4;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 54.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 53.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.3;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 52.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 27.2;humi = 51.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 51.0;humi = 11
+
+
+<\data>
+
+
+
+<len rectify>
+
+in line 734stm32 recv data len!=36:len=99
+
+<\len rectify>
+
+
+
+<para>
+
+in line 694high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+<data>
+
+in line 803recv temp = 28.2;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.2;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.3;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.3;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.4;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.5;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.5;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.5;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.5;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.5;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.5;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.5;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.5;humi = 46.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.6;humi = 47.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.6;humi = 49.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.6;humi = 48.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.7;humi = 50.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.7;humi = 48.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.7;humi = 47.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.7;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.7;humi = 45.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.7;humi = 44.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.8;humi = 44.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.8;humi = 44.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.8;humi = 44.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.8;humi = 44.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.8;humi = 44.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.8;humi = 43.0
+
+
+<\data>
+
+
+
+<data>
+
+in line 803recv temp = 28.8;humi = 43.0
+
+
+<\data>
+
+
+
+<len rectify>
+
+in line 734stm32 recv data len!=36:len=9266
+
+<\len rectify>
+
+
+
+(on Sun Apr  9 22:57:51 2023
+)<para>
+
+in line 710high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+(on Sun Apr  9 22:57:53 2023
+)<data>
+
+in line 819recv temp = 29.9;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:57:58 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:04 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:09 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:14 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:20 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 43.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:25 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 42.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:32 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:37 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:42 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:50 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:58:56 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:02 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:08 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:13 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:19 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:25 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:31 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:36 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:41 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:47 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:52 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 22:59:57 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:03 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:08 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:15 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:20 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:25 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:32 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:37 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:43 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:48 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:53 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:00:58 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:04 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:09 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:15 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:21 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:28 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:33 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:39 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:44 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:50 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:01:56 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:02:02 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:02:07 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:02:23 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 11
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:02:23 2023
+)<len rectify>
+
+in line 750stm32 recv data len!=36:len=99
+
+<\len rectify>
+
+
+
+(on Sun Apr  9 23:06:10 2023
+)<para>
+
+in line 710high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+(on Sun Apr  9 23:06:12 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:06:17 2023
+)<data>
+
+in line 819recv temp = 29.9;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:06:22 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:06:29 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:06:35 2023
+)<data>
+
+in line 819recv temp = 29.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:06:41 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:06:47 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:06:52 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:06:57 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:03 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:09 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:14 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:20 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:27 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:32 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:37 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:45 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:50 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:07:56 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:03 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:08 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:15 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:20 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:25 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:31 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:36 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:42 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:48 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:53 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:08:59 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:04 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:09 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:16 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:21 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:27 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:34 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:42 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:49 2023
+)<data>
+
+in line 819recv temp = 29.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:09:56 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:02 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:08 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:15 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:21 2023
+)<data>
+
+in line 819recv temp = 29.6;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:26 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:32 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:37 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:43 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:49 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:54 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:10:59 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:05 2023
+)<data>
+
+in line 819recv temp = 29.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:11 2023
+)<data>
+
+in line 819recv temp = 29.4;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:16 2023
+)<data>
+
+in line 819recv temp = 29.4;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:24 2023
+)<data>
+
+in line 819recv temp = 29.4;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:30 2023
+)<data>
+
+in line 819recv temp = 29.4;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:36 2023
+)<data>
+
+in line 819recv temp = 29.4;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:42 2023
+)<data>
+
+in line 819recv temp = 29.3;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:47 2023
+)<data>
+
+in line 819recv temp = 29.3;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:53 2023
+)<data>
+
+in line 819recv temp = 29.3;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:11:59 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:12:04 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:12:10 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:12:17 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:12:31 2023
+)<data>
+
+in line 819recv temp = 39.0;humi = 11
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:12:31 2023
+)<len rectify>
+
+in line 750stm32 recv data len!=36:len=99
+
+<\len rectify>
+
+
+
+(on Sun Apr  9 23:30:47 2023
+)<para>
+
+in line 710high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+(on Sun Apr  9 23:30:47 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:30:53 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:30:58 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:04 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:10 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:17 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:24 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:29 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:34 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:40 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:47 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:52 2023
+)<data>
+
+in line 819recv temp = 29.1;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:31:58 2023
+)<data>
+
+in line 819recv temp = 29.1;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:03 2023
+)<data>
+
+in line 819recv temp = 29.1;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:10 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:16 2023
+)<data>
+
+in line 819recv temp = 29.1;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:22 2023
+)<data>
+
+in line 819recv temp = 29.1;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:28 2023
+)<data>
+
+in line 819recv temp = 29.2;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:33 2023
+)<data>
+
+in line 819recv temp = 29.1;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:39 2023
+)<data>
+
+in line 819recv temp = 29.1;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:47 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:52 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 43.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:32:57 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:03 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:08 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:13 2023
+)<data>
+
+in line 819recv temp = 29.1;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:21 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:28 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:35 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:40 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:46 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:51 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:33:57 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:02 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:07 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:14 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:20 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:25 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:31 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:36 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:43 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:48 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:34:53 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:00 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 42.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:05 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 44.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:10 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 44.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:16 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 42.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:22 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 42.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:28 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:34 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:41 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:46 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:51 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:35:58 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:03 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:09 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:15 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:20 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:25 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:31 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:36 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:41 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:48 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:53 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:36:59 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:05 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:10 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:15 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:21 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:27 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:33 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:40 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:45 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:51 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:37:57 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:03 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:09 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:14 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:21 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:26 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:32 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 43.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:37 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:43 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 42.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:49 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:54 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:38:59 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:05 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:11 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:17 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:22 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:27 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:33 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:39 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:46 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:52 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:39:59 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:04 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:10 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:17 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:22 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:28 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:35 2023
+)<data>
+
+in line 819recv temp = 28.9;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:41 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 42.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:49 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:54 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:40:59 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:46:26 2023
+)<para>
+
+in line 710high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+(on Sun Apr  9 23:46:28 2023
+)<data>
+
+in line 819recv temp = 29.0;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:46:34 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:46:40 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:46:47 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:46:54 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:01 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:07 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:12 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:18 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:24 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:29 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:34 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:42 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 43.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:47 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 44.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:47:54 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:00 2023
+)<data>
+
+in line 819recv temp = 28.8;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:06 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:11 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:17 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:23 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:28 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:34 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:41 2023
+)<data>
+
+in line 819recv temp = 28.7;humi = 38.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:46 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 42.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:52 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:48:59 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:05 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:11 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:17 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:24 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:29 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:34 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:42 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:48 2023
+)<data>
+
+in line 819recv temp = 28.5;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:49:54 2023
+)<data>
+
+in line 819recv temp = 28.4;humi = 39.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:50:00 2023
+)<data>
+
+in line 819recv temp = 28.4;humi = 43.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:50:06 2023
+)<data>
+
+in line 819recv temp = 28.4;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:50:11 2023
+)<data>
+
+in line 819recv temp = 28.4;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:50:16 2023
+)<data>
+
+in line 819recv temp = 28.4;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:50:23 2023
+)<data>
+
+in line 819recv temp = 28.4;humi = 41.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:50:28 2023
+)<data>
+
+in line 819recv temp = 28.4;humi = 40.0
+
+
+<\data>
+
+
+
+(on Sun Apr  9 23:50:34 2023
+)<data>
+
+in line 819recv temp = 28.4;humi = 43.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:19:39 2023
+)<para>
+
+in line 711high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+(on Mon Apr 10 01:19:40 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:19:47 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:19:52 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:19:57 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:03 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:08 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:14 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:19 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:26 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:32 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:37 2023
+)<data>
+
+in line 821recv temp = 29.0;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:44 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:49 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:20:55 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:02 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:07 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 38.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:13 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:18 2023
+)<data>
+
+in line 821recv temp = 28.9;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:24 2023
+)<data>
+
+in line 821recv temp = 28.8;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:29 2023
+)<data>
+
+in line 821recv temp = 28.8;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:36 2023
+)<data>
+
+in line 821recv temp = 28.8;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:41 2023
+)<data>
+
+in line 821recv temp = 28.8;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:46 2023
+)<data>
+
+in line 821recv temp = 28.8;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:21:52 2023
+)<data>
+
+in line 821recv temp = 28.8;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:22:06 2023
+)<data>
+
+in line 821recv temp = 28.8;humi = 11
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:22:06 2023
+)<len rectify>
+
+in line 752stm32 recv data len!=36:len=99
+
+<\len rectify>
+
+
+
+(on Mon Apr 10 01:41:42 2023
+)<para>
+
+in line 710high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+(on Mon Apr 10 01:41:43 2023
+)<data>
+
+in line 820recv temp = 29.5;humi = 52.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:41:49 2023
+)<data>
+
+in line 820recv temp = 29.4;humi = 52.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:41:55 2023
+)<data>
+
+in line 820recv temp = 29.4;humi = 52.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:42:01 2023
+)<data>
+
+in line 820recv temp = 29.4;humi = 52.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:42:06 2023
+)<data>
+
+in line 820recv temp = 29.4;humi = 51.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:42:12 2023
+)<data>
+
+in line 820recv temp = 29.4;humi = 51.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:42:29 2023
+)<data>
+
+in line 820recv temp = 51.0;humi = 11
+
+
+<\data>
+
+
+
+(on Mon Apr 10 01:42:29 2023
+)<len rectify>
+
+in line 751stm32 recv data len!=36:len=99
+
+<\len rectify>
+
+
+
+(on Mon Apr 10 05:17:56 2023
+)<para>
+
+in line 710high_temp=40.000000,high_humi=40.000000
+
+<\para>
+
+
+
+(on Mon Apr 10 05:17:56 2023
+)<data>
+
+in line 820recv temp = 32.0;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 05:18:03 2023
+)<data>
+
+in line 820recv temp = 31.9;humi = 39.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 05:18:08 2023
+)<data>
+
+in line 820recv temp = 31.8;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 05:18:13 2023
+)<data>
+
+in line 820recv temp = 31.8;humi = 37.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 05:18:22 2023
+)<data>
+
+in line 820recv temp = 31.7;humi = 36.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 05:18:28 2023
+)<data>
+
+in line 820recv temp = 31.7;humi = 35.0
+
+
+<\data>
+
+
+
+(on Mon Apr 10 05:19:29 2023
+)<n<0>
+
+in line 740stm32 recv position len n < 0:m=-1
+
+<\n<0>
+

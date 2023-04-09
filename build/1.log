@@ -1,0 +1,2666 @@
+debug:94,wrapStack inited!
+debug:326,WrapMap inited!
+main:5611
+delete from board_data where month !=6 and id > 0
+AThread:5615
+BThread:5616Adata:5617
+Bconnect:5618
+debug:1665,Bconn working
+Bdata:5620
+debug:1522,Bdata working
+debug:2205,ATH working
+Agraph:5619
+debug:2694,BTH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5664
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+ticktock:5665
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:951,
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+
+
+
+just for one time should it be
+
+
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5684
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50258] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+
+
+
+just for one time should it be
+
+
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5697
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50260] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5705
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50262] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5706
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50264] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+/home/yaoxuetao/yaoxuetao's raspi0/photos/Wed Jun  1 03:04:36 2022
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5729
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50266] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:951,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:5746
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50268] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5766
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50270] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5776
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50272] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+/home/yaoxuetao/yaoxuetao's raspi0/photos/Wed Jun  1 03:04:48 2022
+debug:951,
+/home/yaoxuetao/yaoxuetao's raspi3/photos/Wed Jun  1 03:04:36 2022
+debug:951,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5787
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50274] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5799
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50276] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+/home/yaoxuetao/yaoxuetao's raspi3/photos/Wed Jun  1 03:04:51 2022
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5807
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50280] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5808
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50282] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5809
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50284] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:5810
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50286] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5811
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50288] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5812
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50290] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5813
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50292] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5814
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50294] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5815
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50296] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5816
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50298] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5817
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50300] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:5818
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50302] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5819
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50304] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5820
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50306] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5821
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50308] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5822
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50310] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5823
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50312] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5824
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50314] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5836
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50318] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5837
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50320] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5845
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50324] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5864
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+495:board[192.168.1.222:50330] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:5865
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50332] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5866
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50348] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+ticktock:5868
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50350] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:5869
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50352] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+ticktock:5870
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50316] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5871
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+495:board[192.168.1.222:50346] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2585,before add element
+ticktock:5872
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50354] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:5873
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50356] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5874
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50358] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+ticktock:5875
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+495:board[192.168.1.222:50360] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2585,before add element
+ticktock:5876
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50364] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5888
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50366] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5889
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50368] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5890
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50370] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5898
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50372] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5899
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50374] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5900
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50376] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5901
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50378] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5902
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50362] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5903
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50380] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5904
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50382] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5905
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50386] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5906
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50384] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5907
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50410] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5908
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+495:board[192.168.1.222:50418] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2585,before add element
+ticktock:5909
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+495:board[192.168.1.222:50406] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2585,before add element
+ticktock:5910
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50422] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5911
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5912
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50426] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5913
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50408] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5914
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50432] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5926
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5927
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50392] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5928
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50390] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+ticktock:5929
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50388] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5937
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50342] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5938
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50334] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5939
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+ticktock:5940
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+
+
+
+just for one time should it be
+
+
+495:board[192.168.1.222:50338] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+495:board[192.168.1.222:50336] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+ticktock:5941
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5942
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:5943
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50404] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+495:board[192.168.1.222:50396] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:5944
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+495:board[192.168.1.222:50412] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+495:board[192.168.1.222:50394] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+495:board[192.168.1.222:50428] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+495:board[192.168.1.222:50424] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+495:board[192.168.1.222:50250] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+495:board[192.168.1.222:50248] has disconnected:Success
+stackV lock
+stackV unlock
+debug:546,
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+stackV lock
+stackV unlock
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6004
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+
+
+
+just for one time should it be
+
+
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6030
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6031
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:6032
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6033
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6034
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:6035
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6036
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6037
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6038
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6039
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6040
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6041
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6042
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+ticktock:6043
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6044
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6045
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6046
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6047
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6048
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+stackV lock
+debug:2320,
+stackV unlock
+debug:2504,
+debug:2506,
+debug:2508,
+debug:2510,
+debug:2512,
+debug:2514,
+debug:2516,
+debug:2518,
+debug:2585,before add element
+ticktock:6049
+debug:2603,after add element
+debug:2604,before create dir
+debug:2605,after create workdir
+debug:2205,ATH working
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+
+
+
+just for one time should it be
+
+
+name=yaoxuetao's raspi17
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi16
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi3
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi4
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi1
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi0
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi8
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi6
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi19
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi9
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi13
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi14
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi18
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi2
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi15
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi11
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi12
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi7
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi10
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi5
+pos=yaoxuetao's personal office
+type=raspi
+---B(id)---1
+---B(id)---2
+debug:2694,BTH working
+debug:1667,Bconn epoll shit
+in Bcon:1689,ptr:e0001c30
+debug:1526,Bconn epoll shit
+in Bdata:1547,ptr:e00085c0
+not verified yet:socket error:connection with board [192.168.1.108:56594]:Success
+---~B(id)---()1 not connect yet
+debug:1522,Bdata working
+---~B(id)---()0 not connect yet
+debug:1665,Bconn working
+name=yaoxuetao's raspi17
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi16
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi3
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi4
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi1
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi0
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi8
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi6
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi19
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi9
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi13
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi14
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi18
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi2
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi15
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi11
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi12
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi7
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi10
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi5
+pos=yaoxuetao's personal office
+type=raspi
+---B(id)---1
+---B(id)---2
+debug:2694,BTH working
+debug:1667,Bconn epoll shit
+debug:1526,Bconn epoll shit
+in Bdata:1547,ptr:e0008330
+in Bcon:1689,ptr:e0008240
+not verified yet:socket error:connection with board [192.168.1.108:56600]:Success
+---~B(id)---()1 not connect yet
+debug:1522,Bdata working
+---~B(id)---()0 not connect yet
+debug:1665,Bconn working
+name=yaoxuetao's raspi17
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi16
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi3
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi4
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi1
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi0
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi8
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi6
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi19
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi9
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi13
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi14
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi18
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi2
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi15
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi11
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi12
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi7
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi10
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi5
+pos=yaoxuetao's personal office
+type=raspi
+---B(id)---1
+---B(id)---2
+debug:2694,BTH working
+debug:1667,Bconn epoll shit
+in Bcon:1689,ptr:e00083c0
+not verified yet:socket error:connection with board [192.168.1.108:56606]:Success
+---~B(id)---()1 not connect yet
+debug:1665,Bconn working
+debug:1526,Bconn epoll shit
+in Bdata:1547,ptr:e00084b0
+---~B(id)---()0 not connect yet
+debug:1522,Bdata working
+name=yaoxuetao's raspi17
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi16
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi3
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi4
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi1
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi0
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi8
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi6
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi19
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi9
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi13
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi14
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi18
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi2
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi15
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi11
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi12
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi7
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi10
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi5
+pos=yaoxuetao's personal office
+type=raspi
+---B(id)---1
+---B(id)---2
+debug:2694,BTH working
+debug:1667,Bconn epoll shit
+in Bcon:1689,ptr:e0008650
+not verified yet:socket error:connection with board [192.168.1.108:56612]:Success
+---~B(id)---()1 not connect yet
+debug:1665,Bconn working
+debug:1526,Bconn epoll shit
+in Bdata:1547,ptr:e0008e70
+---~B(id)---()0 not connect yet
+debug:1522,Bdata working
+name=yaoxuetao's raspi17
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi16
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi3
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi4
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi1
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi0
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi8
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi6
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi19
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi9
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi13
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi14
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi18
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi2
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi15
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi11
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi12
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi7
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi10
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi5
+pos=yaoxuetao's personal office
+type=raspi
+---B(id)---1
+---B(id)---2
+debug:2694,BTH working
+debug:1667,Bconn epoll shit
+in Bcon:1689,ptr:e00086e0
+debug:1526,Bconn epoll shit
+in Bdata:1547,ptr:e00087d0
+not verified yet:socket error:connection with board [192.168.1.108:56632]:Success
+---~B(id)---()1 not connect yet
+debug:1522,Bdata working
+---~B(id)---()0 not connect yet
+debug:1665,Bconn working
+name=yaoxuetao's raspi17
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi16
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi3
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi4
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi1
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi0
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi8
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi6
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi19
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi9
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi13
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi14
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi18
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi2
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi15
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi11
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi12
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi7
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi10
+pos=yaoxuetao's personal office
+type=raspi
+name=yaoxuetao's raspi5
+pos=yaoxuetao's personal office
+type=raspi
+---B(id)---1
+---B(id)---2
+debug:2694,BTH working
+debug:1667,Bconn epoll shit
+in Bcon:1689,ptr:e0008860
+debug:1526,Bconn epoll shit
+in Bdata:1547,ptr:e0008950
+not verified yet:socket error:connection with board [192.168.1.108:56648]:Success
+---~B(id)---()1 not connect yet
+debug:1522,Bdata working
+---~B(id)---()0 not connect yet

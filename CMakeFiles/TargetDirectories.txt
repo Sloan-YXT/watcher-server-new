@@ -1,0 +1,3 @@
+/home/yaoxuetao/Desktop/watcher-server-new/CMakeFiles/server.dir
+/home/yaoxuetao/Desktop/watcher-server-new/CMakeFiles/edit_cache.dir
+/home/yaoxuetao/Desktop/watcher-server-new/CMakeFiles/rebuild_cache.dir
