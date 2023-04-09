@@ -43,3 +43,30 @@ in line 518n=-1,errno=110,Connection timed out
 
 <\n<=0>
 
+
+
+(on Mon Apr 10 07:12:38 2023
+)<n<=0>
+
+in line 476n=-1,errno=104,Connection reset by peer
+
+<\n<=0>
+
+
+
+(on Mon Apr 10 07:17:44 2023
+)<n<=0>
+
+in line 533n=-1,errno=104,Connection reset by peer
+
+<\n<=0>
+
+
+
+(on Mon Apr 10 07:20:04 2023
+)<n<=0>
+
+in line 476n=-1,errno=104,Connection reset by peer
+
+<\n<=0>
+

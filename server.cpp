@@ -1275,7 +1275,7 @@ void *Bconnect(void *arg)
                                     delete info;
                                     sockMapB.unlock();
                                     close(fd);
-                                    ERROR_ACTION(epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL));
+                                    epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
                                     continue;
                                 }
 

@@ -82,3 +82,30 @@ in line 1644errno=0,Success
 
 <\AThread recv==0|errno == ECONNRESET>
 
+
+
+(on Mon Apr 10 07:12:00 2023
+)<AThread code==-1(stm32)>
+
+in line 1717(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+(on Mon Apr 10 07:16:48 2023
+)<AThread code==-1(stm32)>
+
+in line 1717(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
+
+
+(on Mon Apr 10 07:17:28 2023
+)<AThread code==-1(stm32)>
+
+in line 1717(CA3 IOT NODE)code=-1
+
+<\AThread code==-1(stm32)>
+
