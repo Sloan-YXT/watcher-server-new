@@ -1843,6 +1843,7 @@ void *BThreadWarn(void *args)
         string board_name = message_box;
         sockMapB.lock();
         auto info = sockMapB.find(board_name);
+        
         if (info != sockMapB.end())
         {
             
@@ -1853,12 +1854,10 @@ void *BThreadWarn(void *args)
             close(connfdWarn);
             sockMapB.unlock();
             continue;
-        }
-        sockMapB.unlock();
-        
+        }        
         info->second->fd_warn = connfdWarn;
         info->second->shut_fd_warn = true;
-        
+        sockMapB.unlock();
         len = strlen(sync);
         rlen = htonl(len);
         n = send(connfdWarn, &rlen, sizeof(rlen), 0);
@@ -1938,6 +1937,7 @@ void *BThreadData(void *args)
         {
             FTDEBUG("BThreadData.log", "client name not found", "%s", board_name.c_str());
             close(connfdData);
+            sockMapB.unlock();
             continue;
         }
         info->second->fd_data = connfdData;
@@ -2070,7 +2070,7 @@ void *BThread(void *arg)
             exit(1);
         }
         char message_box[200];
-        setup_tcp_keepalive(connfdOther,5);
+        setup_tcp_keepalive(connfdOther,60);
         n = recv(connfdOther, &rlen, sizeof(rlen), MSG_WAITALL);
         if (n == 0 | ((n < 0) && (errno == ECONNRESET)))
         {
@@ -2104,13 +2104,13 @@ void *BThread(void *arg)
         string client_name = message_box;
         sockMapB.lock();
         n = sockMapB.count(client_name);
+        sockMapB.unlock();
         int sendStatus = htonl(LOGIN_SUCCESS);
         if(n!=0)
         {
             sendStatus = htonl(LOGIN_FAILURE);
             send(connfdOther,&sendStatus,4,0);
             close(connfdOther);
-            sockMapB.unlock();
             continue;
         }
         n = send(connfdOther,&sendStatus,4,0);
@@ -2126,7 +2126,6 @@ void *BThread(void *arg)
             perror("faile in Bconn:");
             exit(1);
         }
-        sockMapB.unlock();
         json Bdata;
         nodesA.lock();
         int num = nodesA.size();
