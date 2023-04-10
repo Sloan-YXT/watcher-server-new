@@ -1015,7 +1015,8 @@ void *Bdata(void *arg)
                     n = recv(fd, &len, sizeof(len), MSG_WAITALL);
                     if (n == 0 | ((n < 0) && (errno == ECONNRESET)))
                     {
-                        epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        FTDEBUG("bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
                         close(fd);
                         continue;
                     }
@@ -1029,7 +1030,8 @@ void *Bdata(void *arg)
                     n = recv(fd, message_box, len, MSG_WAITALL);
                     if (n == 0 | ((n < 0) && (errno == ECONNRESET)))
                     {
-                        epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        FTDEBUG("bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
                         close(fd);
                         continue;
                     }
@@ -1071,7 +1073,8 @@ void *Bdata(void *arg)
                     n = send(fd, &len, sizeof(len), 0);
                     if ((n<0) && ((errno == ECONNRESET) | (errno == EPIPE)))
                     {
-                        epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        FTDEBUG("bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
                         close(fd);
                         continue;
                     }
@@ -1083,7 +1086,8 @@ void *Bdata(void *arg)
                     n = send(fd, msg.c_str(), msg.length(), 0);
                     if ((n<0) && ((errno == ECONNRESET) | (errno == EPIPE)))
                     {
-                        epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        FTDEBUG("Bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
                         close(fd);
                         continue;
                     }
@@ -1160,7 +1164,12 @@ void *Bconnect(void *arg)
                         now = time(NULL);
                         printf("(n==%d)%s:socket error:connection with board [%s:%d]:%s\n",n,info->client_name.c_str(), inet_ntop(AF_INET, &info->clientData.sin_addr, p, 20), ntohs(info->clientData.sin_port), strerror(errno));
                         free(p);
-                        ERROR_ACTION(epoll_ctl(epfd, EPOLL_CTL_DEL, fd, &ev));
+                        //redundant epoll leads to epoll < 0, and invalidates errno
+                        //somewhere if epoll<0 just collapse
+                        /*
+                        n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, &ev);
+                        FTDEBUG("bconnect.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
+                        */
                         sockMapB.lock();
                         string board_name = info->board_name;
                         sockMapB.erase(info->client_name);
@@ -1188,6 +1197,7 @@ void *Bconnect(void *arg)
                         //epoll automatically removes the fined connection from epfd watch queue
                         DEBUG("%d,%s",errno,strerror(errno));
                         int n_ = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                        FTDEBUG("Bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n_,fd,errno,strerror(errno));
                         DEBUG("%d,%s",errno,strerror(errno));
                         DEBUG("((%d,%d,%d))",n_,fd,epfd);
                         close(fd);
@@ -1214,7 +1224,7 @@ void *Bconnect(void *arg)
                             now = time(NULL);
                             printf("(n==%d\n)%s:socket error:connection with board [%s:%d]:%s\n",n,info->client_name.c_str(), inet_ntop(AF_INET, &info->clientData.sin_addr, p, 20), ntohs(info->clientData.sin_port), strerror(errno));
                             free(p);
-                            ERROR_ACTION(epoll_ctl(epfd, EPOLL_CTL_DEL, fd, &ev));
+                            FTDEBUG("bconnect.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
                             sockMapB.lock();
                             string board_name = info->board_name;
                             sockMapB.erase(info->client_name);
@@ -1235,8 +1245,12 @@ void *Bconnect(void *arg)
                                 }
                                 nodesA.unlock();
                             }
+                            //vicious!!!
+                            //compiler should forbid this one, but it doesn't!!Take care 
+                            // n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                            int n_ = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
                             close(fd);
-                            epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                            FTDEBUG("bconnect.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n_,fd,errno,strerror(errno));
                             numer.decreaseB();
                         }
                         else if (n < 0 && errno != ECONNRESET)
@@ -1275,7 +1289,8 @@ void *Bconnect(void *arg)
                                     delete info;
                                     sockMapB.unlock();
                                     close(fd);
-                                    epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                                    n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                                    FTDEBUG("bconnect.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
                                     continue;
                                 }
 
