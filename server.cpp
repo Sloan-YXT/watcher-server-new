@@ -2070,7 +2070,7 @@ void *BThread(void *arg)
             exit(1);
         }
         char message_box[200];
-        setup_tcp_keepalive(connfdOther,60);
+        setup_tcp_keepalive(connfdOther,5);
         n = recv(connfdOther, &rlen, sizeof(rlen), MSG_WAITALL);
         if (n == 0 | ((n < 0) && (errno == ECONNRESET)))
         {
