@@ -580,15 +580,16 @@ void *B_L475E_IOT01A(void *args)
             j["smoke"] = "NA";
             j["state"] = state;
             data->wood_time = time(NULL);
+            printf("\n\n\njust for one time should it be\n\n\n");
+            FTDEBUG("B-L475E-IOT01A.log", "save data","%s",j.dump().c_str());
             try
             {
-                printf("\n\n\njust for one time should it be\n\n\n");
-                FTDEBUG("B-L475E-IOT01A.log", "save data","%s",j.dump().c_str());
                 save_board_data(j.dump());
             }
             catch(exception &e)
             {
                 FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->state,data->name,data->position);
+                continue;
             }
         }
         else
@@ -608,7 +609,16 @@ void *B_L475E_IOT01A(void *args)
             j["smoke"] = "NA";
             j["state"] = state;
             printf("\n\n\nsecsecsec:%d\n\n\n", sec);
-            save_board_data(j.dump());
+            FTDEBUG("B-L475E-IOT01A.log", "save data","%s",j.dump().c_str());
+            try
+            {
+                save_board_data(j.dump());
+            }
+            catch(exception &e)
+            {
+                FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->state,data->name,data->position);
+                continue;
+            }
             data->wood_time = clock_after;
         }
         double temp,humi;
@@ -623,7 +633,7 @@ void *B_L475E_IOT01A(void *args)
             cout<< "in " << __LINE__ <<"float transfer error" <<endl;
             cout<<data->temp<<endl;
             cout<<data->humi<<endl;
-            exit(1);
+            continue;
         }
         if (temp > data->high_temp || humi > data->high_humi)
         {
@@ -871,7 +881,8 @@ void *stm32F103(void *args)
             j["light"] = light;
             j["smoke"] = smoke;
             j["state"] = "NA";
-            wood_time = data->wood_time = time(NULL);
+            data->wood_time = time(NULL);
+            wood_time = data->wood_time;
             printf("\n\n\njust for one time should it be\n\n\n");
             try
             {
@@ -882,6 +893,7 @@ void *stm32F103(void *args)
             catch(exception &e)
             {
                 FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->state,data->name,data->position);
+                continue;
             }
         }
         else 
@@ -909,6 +921,7 @@ void *stm32F103(void *args)
                 catch(exception &e)
                 {
                     FTDEBUG("stm32.log", "parse err","(%s,%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->light,data->smoke,data->name,data->position);
+                    continue;
                 }
             }
         }
@@ -995,6 +1008,7 @@ void *stm32F103(void *args)
         }
     }
 clean_end:
+    FTDEBUG("stm32.log", "clean", "");
     nodesA.lock();
     //timing sequence is really important
     for (auto b = data->connection.begin(); b != data->connection.end(); b++)
@@ -1014,7 +1028,6 @@ clean_end:
         }
         else if(m<0)
         {
-            errno = 0;
         }
         m = send((*b)->fd_warn, a.c_str(), a.size(), 0);
         if (m <= 0 && errno != EPIPE && errno!=ECONNRESET)
@@ -1709,6 +1722,7 @@ void *AThread(void *arg)
         setup_tcp_keepalive(connfdData,1);
         if (connfdData < 0)
         {
+            //gdb
             perror("error accepting from board(data)");
             continue;
             // exit(1);
@@ -1736,7 +1750,7 @@ void *AThread(void *arg)
             FTDEBUG("AThread.log", "AThread recv<0", "errno=%d,%s", errno, strerror(errno));
             exit(1);
         }
-        else if (n == 0 | n<0 | n<len_tmp)
+        else if (n == 0 | n<0 | n<len_tmp )
         {
             FTDEBUG("AThread.log", "AThread recv==0|errno == ECONNRESET", "errno=%d,%s", errno, strerror(errno));
             FTDEBUG("A.log", "AThread recv==0|errno == ECONNRESET", "errno=%d,%s", errno, strerror(errno));
