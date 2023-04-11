@@ -1744,6 +1744,12 @@ void *AThread(void *arg)
             exit(1);
         }
         len_tmp = ntohl(len_tmp);
+        if(len_tmp>200)
+        {
+            FTDEBUG("AThread.log", "len overflow", "len=%d", len_tmp);
+            close(connfdData);
+            continue;
+        }
         n = recv(connfdData, message_buffer, len_tmp, MSG_WAITALL);
         if (n < 0 && errno != ECONNRESET && errno!= ETIMEDOUT)
         {
@@ -1901,6 +1907,12 @@ void *BThreadWarn(void *args)
             exit(1);
         }
         len = ntohl(rlen);
+        if(len>200)
+        {
+            FTDEBUG("BThreadWarn.log", "len overflow", "len=%d", len);
+            close(connfdWarn);
+            continue;
+        }
         char message_box[200];
         n = recv(connfdWarn, message_box, len, MSG_WAITALL);
         if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
@@ -1988,7 +2000,14 @@ void *BThreadData(void *args)
             exit(1);
         }
         len = ntohl(rlen);
+        if(len>200)
+        {
+            FTDEBUG("BThreadData.log", "len overflow", "len=%d", len);
+            close(connfdData);
+            continue;
+        }
         char message_box[200];
+        //stack overflow cause len = strlen(sync); core dump... see core.9956
         n = recv(connfdData, message_box, len, MSG_WAITALL);
         if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
         {
@@ -2162,6 +2181,12 @@ void *BThread(void *arg)
             exit(1);
         }
         len = ntohl(rlen);
+        if(len>200)
+        {
+            FTDEBUG("BThread.log", "len overflow", "len=%d", len);
+            close(connfdData);
+            continue;
+        }
         FTDEBUG("BThread.log", "len recved", "len=%d", len);
         n = recv(connfdOther, message_box, len, MSG_WAITALL);
         if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
