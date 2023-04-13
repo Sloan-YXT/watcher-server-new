@@ -9,11 +9,14 @@
 #include <stdio.h>
 #include <arpa/inet.h>
 #include <netinet/in.h>
+#include <signal.h>
 pthread_t a;
 int fd;
 using namespace std;
+//practice leads to knowledge!
 int main(void)
 {
+    signal ( SIGPIPE, SIG_IGN ) ;
     struct sockaddr_in serverAddr,clientAddr;
     socklen_t addrlen = sizeof(clientAddr);
     memset(&serverAddr, 0, sizeof(serverAddr));
@@ -34,6 +37,7 @@ int main(void)
     }
     long long a = 4;
     char msg[1024];
+    //shutdown(fd, SHUT_RDWR);
     int n = send(fd,&a,8,0);
     if(n<0)
     {
@@ -50,7 +54,7 @@ int main(void)
             exit(1);
         }
         sleep(1);
-        cout<<"send turn "+i<<endl;
+        cout<<"send turn "+to_string(i)<<endl;
     }
     n = close(fd);
     if(n<0)

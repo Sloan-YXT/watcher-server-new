@@ -41,7 +41,7 @@ int main(void)
     while(1)
     {
         int connfd = accept(fd,(sockaddr *)&clientAddr,&addrlen);
-        int a;
+        long long a;
         char msg[1024];
         int n = recv(connfd,&a,4,MSG_WAITALL);
         if(n<0)
@@ -50,7 +50,11 @@ int main(void)
             exit(1);
         }
         cout<<a<<endl;
-        n = close(connfd);
+        //n = close(connfd);
+        //n = shutdown(connfd,SHUT_WR);
+        n = shutdown(connfd,SHUT_RD);
+        sleep(2);
+        n = shutdown(connfd,SHUT_WR);
         if(n<0)
         {
             perror("close error");

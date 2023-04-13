@@ -2307,6 +2307,7 @@ void sigPipeHandler(int signo)
 int main(void)
 {
     //pthread_mutex_init(&BTestlock, NULL);
+    signal ( SIGPIPE, SIG_IGN ) ;
     printf("main:%d\n", syscall(__NR_gettid));
     for (int i = 0; i < ANUM; i++)
     {
