@@ -194,17 +194,17 @@ public:
     bool shut_fd_warn = false,shut_fd_data = false;
     BNodeInfo()
     {
-        pthread_mutex_lock(&BTestlock);
+        //pthread_mutex_lock(&BTestlock);
         id++;
         cout << "---B(id)---" + to_string(id) << endl;
-        pthread_mutex_unlock(&BTestlock);
+        //pthread_mutex_unlock(&BTestlock);
     }
     ~BNodeInfo()
     {
-        pthread_mutex_lock(&BTestlock);
+        //pthread_mutex_lock(&BTestlock);
         id--;
         cout << "---~B(id)---()" + to_string(id) + " " + board_name << endl;
-        pthread_mutex_unlock(&BTestlock);
+        //pthread_mutex_unlock(&BTestlock);
     }
 };
 int BNodeInfo::id;
@@ -2306,7 +2306,7 @@ void sigPipeHandler(int signo)
 }
 int main(void)
 {
-    pthread_mutex_init(&BTestlock, NULL);
+    //pthread_mutex_init(&BTestlock, NULL);
     printf("main:%d\n", syscall(__NR_gettid));
     for (int i = 0; i < ANUM; i++)
     {
