@@ -195,15 +195,15 @@ public:
     BNodeInfo()
     {
         //pthread_mutex_lock(&BTestlock);
-        id++;
-        cout << "---B(id)---" + to_string(id) << endl;
+        // id++;
+        // cout << "---B(id)---" + to_string(id) << endl;
         //pthread_mutex_unlock(&BTestlock);
     }
     ~BNodeInfo()
     {
         //pthread_mutex_lock(&BTestlock);
-        id--;
-        cout << "---~B(id)---()" + to_string(id) + " " + board_name << endl;
+        // id--;
+        // cout << "---~B(id)---()" + to_string(id) + " " + board_name << endl;
         //pthread_mutex_unlock(&BTestlock);
     }
 };
