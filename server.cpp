@@ -472,7 +472,7 @@ void *B_L475E_IOT01A(void *args)
     while(1)
     {
         n = recv(fd_data,&rlen,sizeof(rlen),MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) )|n<sizeof(rlen))
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) )|n<sizeof(rlen))
         {
             FTDEBUG("B-L475E-IOT01A.log", "n<=0", "n=%d,errno=%d,%s", n,errno,strerror(errno));
             goto clean_end;
@@ -486,7 +486,7 @@ void *B_L475E_IOT01A(void *args)
         len = ntohl(rlen);
         printf("len=%d\n",len);
         n = recv(fd_data,message_box,len,MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) )|n<len)
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) )|n<len)
         {
             FTDEBUG("B-L475E-IOT01A.log", "n<=0", "n=%d,errno=%d,%s", n,errno,strerror(errno));
             goto clean_end;
@@ -502,7 +502,7 @@ void *B_L475E_IOT01A(void *args)
         FTDEBUG("B-L475E-IOT01A.log", "message","state:%s",message_box);
         state = message_box;
         n = recv(fd_data,&rlen,sizeof(rlen),MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) )|n<sizeof(rlen))
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) )|n<sizeof(rlen))
         {
             FTDEBUG("B-L475E-IOT01A.log", "n<=0", "n=%d,errno=%d,%s", n,errno,strerror(errno));
             goto clean_end;
@@ -531,7 +531,7 @@ void *B_L475E_IOT01A(void *args)
         FTDEBUG("B-L475E-IOT01A.log", "message","temp:%s",message_box);
         temp = trim(message_box,'0');
         n = recv(fd_data,&rlen,sizeof(rlen),MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) )|n<sizeof(rlen))
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) )|n<sizeof(rlen))
         {
             FTDEBUG("B-L475E-IOT01A.log", "n<=0", "n=%d,errno=%d,%s", n,errno,strerror(errno));
             goto clean_end;
@@ -544,7 +544,7 @@ void *B_L475E_IOT01A(void *args)
         }
         len = ntohl(rlen);
         n = recv(fd_data,message_box,len,MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) )|n<len)
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) )|n<len)
         {
             FTDEBUG("B-L475E-IOT01A.log", "n<=0", "n=%d,errno=%d,%s", n,errno,strerror(errno));
             goto clean_end;
@@ -670,7 +670,9 @@ void *B_L475E_IOT01A(void *args)
                 int len_tmp = reply_string.size();
                 len_tmp = htonl(len_tmp);
                 n = send(fd_tmp, &len_tmp, sizeof(len_tmp), 0);
-                if (n < 0 && (errno==ECONNRESET|errno==ETIMEDOUT))
+                //csdn tutoril on ECONNRESET and EPIPE is actually shit
+                //see https://pubs.opengroup.org/onlinepubs/9699919799/functions/V2_chap02.html
+                if (n < 0 && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE))
                 {
                     FTDEBUG("B-L475E-IOT01A.log", "n<0","");
                     continue;
@@ -681,7 +683,7 @@ void *B_L475E_IOT01A(void *args)
                     exit(1);
                 }
                 n = send(fd_tmp, reply_string.c_str(), reply_string.size(), 0);
-                if (n <0 && (errno==ECONNRESET|errno==ETIMEDOUT))
+                if (n <0 && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE))
                 {
                     FTDEBUG("B-L475E-IOT01A.log", "n<0","");
                     continue;
@@ -709,7 +711,7 @@ void *B_L475E_IOT01A(void *args)
         int len = a.size();
         len = htonl(len);
         int m = send((*b)->fd_warn, &len, sizeof(len), 0);
-        if (m <= 0 && errno != EPIPE && errno != ECONNRESET)
+        if (m <= 0 && errno != EPIPE && errno != ECONNRESET && errno!=EPIPE)
         {
             printf("send breset failed in %d:%s\n", __LINE__, strerror(errno));
             exit(1);
@@ -719,7 +721,7 @@ void *B_L475E_IOT01A(void *args)
 
         }
         m = send((*b)->fd_warn, a.c_str(), a.size(), 0);
-        if (m <= 0 && errno != EPIPE && errno != ECONNRESET)
+        if (m <= 0 && errno != EPIPE && errno != ECONNRESET && errno!=EPIPE)
         {
             printf("send breset failed in %d:%s\n", __LINE__, strerror(errno));
             exit(1);
@@ -749,7 +751,7 @@ void *stm32F103(void *args)
     string position;
     n = recv(fd_data, &rlen, sizeof(rlen), MSG_WAITALL);
     FTDEBUG("stm32.log", "para", "high_temp=%f,high_humi=%f", data->high_temp, data->high_humi);
-    if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) ))
+    if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) ))
     {
         FTDEBUG("stm32.log", "n<0", "stm32 recv position len n < 0:m=%d", n);
         goto clean_end;
@@ -761,7 +763,7 @@ void *stm32F103(void *args)
     }
     len = ntohl(rlen);
     n = recv(fd_data, message_box, len, MSG_WAITALL);
-    if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) ))
+    if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) ))
     {
         FTDEBUG("stm32.log", "n<0", "stm32 recv position len n < 0:m=%d", n);
         goto clean_end;
@@ -776,7 +778,7 @@ void *stm32F103(void *args)
     while (1)
     {
         n = recv(fd_data, &rlen, sizeof(rlen), MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) ))
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) ))
         {
             FTDEBUG("stm32.log", "n<0", "stm32 recv position len n < 0:m=%d", n);
             goto clean_end;
@@ -793,7 +795,7 @@ void *stm32F103(void *args)
             break;
         }
         n = recv(fd_data, temp, 17, MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) ))
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) ))
         {
             FTDEBUG("stm32.log", "n<0", "stm32 recv position len n < 0:m=%d", n);
             goto clean_end;
@@ -809,7 +811,7 @@ void *stm32F103(void *args)
             break;
         }
         n = recv(fd_data, humi, 17, MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) ))
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) ))
         {
             FTDEBUG("stm32.log", "n<0", "stm32 recv position len n < 0:m=%d", n);
             goto clean_end;
@@ -825,7 +827,7 @@ void *stm32F103(void *args)
             break;
         }
         n = recv(fd_data, light, 1, MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) ))
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) ))
         {
             FTDEBUG("stm32.log", "n<0", "stm32 recv position len n < 0:m=%d", n);
             goto clean_end;
@@ -841,7 +843,7 @@ void *stm32F103(void *args)
             break;
         }
         n = recv(fd_data, smoke, 1, MSG_WAITALL);
-        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) ))
+        if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) ))
         {
             FTDEBUG("stm32.log", "n<0", "stm32 recv position len n < 0:m=%d", n);
             goto clean_end;
@@ -983,7 +985,7 @@ void *stm32F103(void *args)
                 int len_tmp = reply_string.size();
                 len_tmp = htonl(len_tmp);
                 n = send(fd_tmp, &len_tmp, sizeof(len_tmp), 0);
-                if (n < 0 && (errno == EPIPE | errno == ECONNRESET))
+                if (n < 0 && (errno == EPIPE | errno == ECONNRESET|errno==EPIPE))
                 {
                     continue;
                 }
@@ -993,7 +995,7 @@ void *stm32F103(void *args)
                     exit(1);
                 }
                 n = send(fd_tmp, reply_string.c_str(), reply_string.size(), 0);
-                if (n <0 && (errno == EPIPE | errno == ECONNRESET))
+                if (n <0 && (errno == EPIPE | errno == ECONNRESET|errno==EPIPE))
                 {
                     continue;
                 }
@@ -1021,7 +1023,7 @@ clean_end:
         int len = a.size();
         len = htonl(len);
         int m = send((*b)->fd_warn, &len, sizeof(len), 0);
-        if (m <= 0 && errno != EPIPE && errno!=ECONNRESET)
+        if (m <= 0 && errno != EPIPE && errno!=ECONNRESET && errno!=EPIPE)
         {
             printf("send breset failed in %d:%s\n", __LINE__, strerror(errno));
             exit(1);
@@ -1030,7 +1032,7 @@ clean_end:
         {
         }
         m = send((*b)->fd_warn, a.c_str(), a.size(), 0);
-        if (m <= 0 && errno != EPIPE && errno!=ECONNRESET)
+        if (m <= 0 && errno != EPIPE && errno!=ECONNRESET && errno!=EPIPE)
         {
             printf("send breset failed in %d:%s\n", __LINE__, strerror(errno));
             exit(1);
@@ -1091,7 +1093,7 @@ void *Bdata(void *arg)
                 if (b_data_event[i].events & EPOLLIN)
                 {
                     n = recv(fd, &len, sizeof(len), MSG_WAITALL);
-                    if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
+                    if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE)))
                     {
                         n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
                         FTDEBUG("bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
@@ -1106,7 +1108,7 @@ void *Bdata(void *arg)
                     }
                     len = ntohl(len);
                     n = recv(fd, message_box, len, MSG_WAITALL);
-                    if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
+                    if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE)))
                     {
                         n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
                         FTDEBUG("bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
@@ -1149,7 +1151,7 @@ void *Bdata(void *arg)
                     len = msg.length();
                     len = htonl(len);
                     n = send(fd, &len, sizeof(len), 0);
-                    if ((n<0) && ((errno == ECONNRESET) | (errno == ETIMEDOUT)))
+                    if ((n<0) && ((errno == ECONNRESET) | (errno == ETIMEDOUT)|errno==EPIPE))
                     {
                         n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
                         FTDEBUG("bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
@@ -1162,7 +1164,7 @@ void *Bdata(void *arg)
                         exit(1);
                     }
                     n = send(fd, msg.c_str(), msg.length(), 0);
-                    if ((n<0) && ((errno == ECONNRESET) | (errno == ETIMEDOUT)))
+                    if ((n<0) && ((errno == ECONNRESET) | (errno == ETIMEDOUT)|errno==EPIPE))
                     {
                         n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
                         FTDEBUG("Bdata.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n,fd,errno,strerror(errno));
@@ -1730,7 +1732,7 @@ void *AThread(void *arg)
         //bug here:if we suspend for 10s on board, data sequence is fucked up!
         n = recv(connfdData, &len_tmp, sizeof(len_tmp), MSG_WAITALL);
         //errno==110:time out
-        if (n == 0 | (n<0 &&( errno == ECONNRESET|errno == ETIMEDOUT))|n<sizeof(len_tmp))
+        if (n == 0 | (n<0 &&( errno == ECONNRESET|errno == ETIMEDOUT|errno==EPIPE))|n<sizeof(len_tmp))
         {
             FTDEBUG("AThread.log", "AThread recv==0|errno == ECONNRESET", "errno=%d,%s", errno, strerror(errno));
             FTDEBUG("A.log", "AThread recv==0|errno == ECONNRESET", "errno=%d,%s", errno, strerror(errno));
@@ -1751,7 +1753,7 @@ void *AThread(void *arg)
             continue;
         }
         n = recv(connfdData, message_buffer, len_tmp, MSG_WAITALL);
-        if (n < 0 && errno != ECONNRESET && errno!= ETIMEDOUT)
+        if (n < 0 && errno != ECONNRESET && errno!= ETIMEDOUT && errno!=EPIPE)
         {
             FTDEBUG("AThread.log", "AThread recv<0", "errno=%d,%s", errno, strerror(errno));
             exit(1);
@@ -1770,7 +1772,7 @@ void *AThread(void *arg)
         // recv type
         FTDEBUG("AThread.log", "message_buffer", "%s", message_buffer);
         n = recv(connfdData, &len_tmp, sizeof(len_tmp), MSG_WAITALL);
-        if (n == 0 | (n<0 &&( errno == ECONNRESET |  errno==ETIMEDOUT))|n<sizeof(len_tmp))
+        if (n == 0 | (n<0 &&( errno == ECONNRESET |  errno==ETIMEDOUT |errno==EPIPE))|n<sizeof(len_tmp))
         {
             FTDEBUG("AThread.log", "AThread recv==0|errno == ECONNRESET", "errno=%d,%s", errno, strerror(errno));
             FTDEBUG("A.log", "(%s)AThread recv==0|errno == ECONNRESET", "errno=%d,%s", message_buffer, errno, strerror(errno));
@@ -1785,7 +1787,7 @@ void *AThread(void *arg)
         len_tmp = ntohl(len_tmp);
 
         n = recv(connfdData, type_buffer, len_tmp, MSG_WAITALL);
-        if (n < 0 && errno != ECONNRESET && errno != ETIMEDOUT)
+        if (n < 0 && errno != ECONNRESET && errno != ETIMEDOUT && errno!=EPIPE)
         {
             FTDEBUG("AThread.log", "AThread recv<0", "errno=%d,%s", message_buffer, errno, strerror(errno));
             exit(1);
@@ -1894,7 +1896,7 @@ void *BThreadWarn(void *args)
         FTDEBUG("BThreadWarn.log", "connect", "[%s:%d]",p_out, ntohs(clientWarnIn.sin_port));
         int n, len, rlen;
         n = recv(connfdWarn, &rlen, sizeof(rlen), MSG_WAITALL);
-        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
+        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE)))
         {
             FTDEBUG("BThreadWarn.log", "n<=0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdWarn);
@@ -1915,7 +1917,7 @@ void *BThreadWarn(void *args)
         }
         char message_box[200];
         n = recv(connfdWarn, message_box, len, MSG_WAITALL);
-        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
+        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE)))
         {
             FTDEBUG("BThreadWarn.log", "n<=0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdWarn);
@@ -1949,7 +1951,7 @@ void *BThreadWarn(void *args)
         len = strlen(sync);
         rlen = htonl(len);
         n = send(connfdWarn, &rlen, sizeof(rlen), 0);
-        if (n < 0 && (errno == ECONNRESET|errno==ETIMEDOUT))
+        if (n < 0 && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE))
         {
             FTDEBUG("BThreadWarn.log", "n<=0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             continue;
@@ -1961,7 +1963,7 @@ void *BThreadWarn(void *args)
             exit(1);
         }
         n = send(connfdWarn, sync, len, 0);
-        if (n < 0 && (errno == ECONNRESET|errno==ETIMEDOUT))
+        if (n < 0 && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE))
         {
             FTDEBUG("BThreadWarn.log", "n<0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             continue;
@@ -1987,7 +1989,7 @@ void *BThreadData(void *args)
         int n, len, rlen;
         setup_tcp_keepalive(connfdData,5);
         n = recv(connfdData, &rlen, sizeof(rlen), MSG_WAITALL);
-        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
+        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE)))
         {
             FTDEBUG("BThreadData.log", "n<=0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdData);
@@ -2008,8 +2010,9 @@ void *BThreadData(void *args)
         }
         char message_box[200];
         //stack overflow cause len = strlen(sync); core dump... see core.9956
+        //no matter for embed or mature os, stack overflow is always dangerous
         n = recv(connfdData, message_box, len, MSG_WAITALL);
-        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
+        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE)))
         {
             FTDEBUG("BThreadData.log", "n<=0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdData);
@@ -2042,7 +2045,7 @@ void *BThreadData(void *args)
         len = strlen(sync);
         rlen = htonl(len);
         n = send(connfdData, &rlen, sizeof(rlen), 0);
-        if (n < 0 && (errno == ECONNRESET|errno==ETIMEDOUT))
+        if (n < 0 && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE))
         {
             FTDEBUG("BThreadData.log", "n<0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdData);
@@ -2055,7 +2058,7 @@ void *BThreadData(void *args)
             exit(1);
         }
         n = send(connfdData, sync, len, 0);
-        if (n < 0 && (errno==ETIMEDOUT | errno == ECONNRESET))
+        if (n < 0 && (errno==ETIMEDOUT | errno == ECONNRESET |errno==EPIPE))
         {
             FTDEBUG("BThreadData.log", "n<0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdData);
@@ -2168,7 +2171,7 @@ void *BThread(void *arg)
         char message_box[200];
         setup_tcp_keepalive(connfdOther,5);
         n = recv(connfdOther, &rlen, sizeof(rlen), MSG_WAITALL);
-        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
+        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE)))
         {
             FTDEBUG("BThread.log", "n<=0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdOther);
@@ -2189,7 +2192,7 @@ void *BThread(void *arg)
         }
         FTDEBUG("BThread.log", "len recved", "len=%d", len);
         n = recv(connfdOther, message_box, len, MSG_WAITALL);
-        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT)))
+        if (n == 0 | ((n < 0) && (errno == ECONNRESET|errno==ETIMEDOUT|errno==EPIPE)))
         {
             FTDEBUG("BThread.log", "n<=0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdOther);
@@ -2216,7 +2219,7 @@ void *BThread(void *arg)
             continue;
         }
         n = send(connfdOther,&sendStatus,4,0);
-        if (n < 0 && (errno==ETIMEDOUT| errno == ECONNRESET))
+        if (n < 0 && (errno==ETIMEDOUT| errno == ECONNRESET|errno==EPIPE))
         {
             FTDEBUG("BThread.log", "send<0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdOther);
@@ -2252,7 +2255,7 @@ void *BThread(void *arg)
         len = data_string.length(), rlen;
         len = htonl(len);
         n = send(connfdOther, &len, sizeof(len), 0);
-        if (n < 0 && (errno==ETIMEDOUT| errno == ECONNRESET))
+        if (n < 0 && (errno==ETIMEDOUT| errno == ECONNRESET|errno==EPIPE))
         {
             FTDEBUG("BThread.log", "send<0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdOther);
@@ -2265,7 +2268,7 @@ void *BThread(void *arg)
             exit(1);
         }
         n = send(connfdOther, data_string.c_str(), data_string.size(), 0);
-        if (n < 0 && (errno==ETIMEDOUT | errno == ECONNRESET))
+        if (n < 0 && (errno==ETIMEDOUT | errno == ECONNRESET|errno==EPIPE))
         {
             FTDEBUG("BThread.log", "send<0", "n=%d,errno=%d,%s", n, errno, strerror(errno));
             close(connfdOther);
