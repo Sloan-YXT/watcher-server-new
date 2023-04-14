@@ -454,6 +454,11 @@ void *B_L475E_IOT01A(void *args)
         exit(1);
     }
     len = ntohl(rlen);
+    if(len>MESSAE_LENGTH)
+    {
+        FTDEBUG("B-L475E-IOT01A.log", "len overflow", "len=%d,n=%d,errno=%d,%s",len,n,errno,strerror(errno));
+        goto clean_end;
+    }
     n = recv(fd_data, message_box, len, MSG_WAITALL);
     if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) )|n<len)
     {
@@ -485,6 +490,14 @@ void *B_L475E_IOT01A(void *args)
         }
         len = ntohl(rlen);
         printf("len=%d\n",len);
+        //TO DO: once loose packet, stack overflow when len too much!
+        //ok because no packet loose in ISM43362, otherwise change is a must
+        //once ISM43362 break down, packet lose is much possible(happened once)
+        if(len>MESSAE_LENGTH)
+        {
+            FTDEBUG("B-L475E-IOT01A.log", "len overflow", "len=%d,n=%d,errno=%d,%s",len,n,errno,strerror(errno));
+            goto clean_end;
+        }
         n = recv(fd_data,message_box,len,MSG_WAITALL);
         if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) )|n<len)
         {
@@ -514,6 +527,11 @@ void *B_L475E_IOT01A(void *args)
             exit(1);
         }
         len = ntohl(rlen);
+        if(len>MESSAE_LENGTH)
+        {
+            FTDEBUG("B-L475E-IOT01A.log", "len overflow", "len=%d,n=%d,errno=%d,%s",len,n,errno,strerror(errno));
+            goto clean_end;
+        }
         n = recv(fd_data,message_box,len,MSG_WAITALL);
         if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT) )|n<len)
         {
@@ -543,6 +561,11 @@ void *B_L475E_IOT01A(void *args)
             exit(1);
         }
         len = ntohl(rlen);
+        if(len>MESSAE_LENGTH)
+        {
+            FTDEBUG("B-L475E-IOT01A.log", "len overflow", "len=%d,n=%d,errno=%d,%s",len,n,errno,strerror(errno));
+            goto clean_end;
+        }
         n = recv(fd_data,message_box,len,MSG_WAITALL);
         if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) )|n<len)
         {
@@ -762,6 +785,11 @@ void *stm32F103(void *args)
         exit(1);
     }
     len = ntohl(rlen);
+    if(len>MESSAE_LENGTH)
+    {
+        FTDEBUG("stm32.log", "len overflow", "len=%d,n=%d", len,n);
+        goto clean_end;
+    }
     n = recv(fd_data, message_box, len, MSG_WAITALL);
     if (n == 0|((n<0) && (errno==ECONNRESET|errno==ETIMEDOUT|errno==EPIPE) ))
     {
