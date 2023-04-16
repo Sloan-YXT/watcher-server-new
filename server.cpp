@@ -449,7 +449,7 @@ void *B_L475E_IOT01A(void *args)
     }
     else if(n<0)
     {
-        FTDEBUG("B-L475E-IOT01A.log", "n<0","");
+        // FTDEBUG("B-L475E-IOT01A.log", "n<0","");
         perror("recv error in b-l475e-iot01a");
         exit(1);
     }
@@ -467,7 +467,7 @@ void *B_L475E_IOT01A(void *args)
     }
     else if(n<0)
     {
-        FTDEBUG("B-L475E-IOT01A.log", "n<0","");
+        // FTDEBUG("B-L475E-IOT01A.log", "n<0","");
         perror("recv error in b-l475e-iot01a");
         exit(1);
     }
@@ -484,7 +484,6 @@ void *B_L475E_IOT01A(void *args)
         }
         else if(n<0)
         {
-            FTDEBUG("B-L475E-IOT01A.log", "n<0","");
             perror("recv error in b-l475e-iot01a");
             exit(1);
         }
@@ -506,7 +505,6 @@ void *B_L475E_IOT01A(void *args)
         }
         else if(n<0)
         {
-            FTDEBUG("B-L475E-IOT01A.log", "n<0","");
             perror("recv error in b-l475e-iot01a");
             exit(1);
         }
@@ -522,7 +520,6 @@ void *B_L475E_IOT01A(void *args)
         }
         else if(n<0)
         {
-            FTDEBUG("B-L475E-IOT01A.log", "n<0","");
             perror("recv error in b-l475e-iot01a");
             exit(1);
         }
@@ -540,7 +537,6 @@ void *B_L475E_IOT01A(void *args)
         }
         else if(n<0)
         {
-            FTDEBUG("B-L475E-IOT01A.log", "n<0","");
             perror("recv error in b-l475e-iot01a");
             exit(1);
         }
@@ -556,7 +552,6 @@ void *B_L475E_IOT01A(void *args)
         }
         else if(n<0)
         {
-            FTDEBUG("B-L475E-IOT01A.log", "n<0","");
             perror("recv error in b-l475e-iot01a");
             exit(1);
         }
@@ -574,7 +569,6 @@ void *B_L475E_IOT01A(void *args)
         }
         else if(n<0)
         {
-            FTDEBUG("B-L475E-IOT01A.log", "n<0","");
             perror("recv error in b-l475e-iot01a");
             exit(1);
         }
@@ -591,7 +585,7 @@ void *B_L475E_IOT01A(void *args)
         data->smoke = "NA";
         nodesA.unlock();
         unsigned int wood_time = data->wood_time;
-        unsigned int sec;
+        unsigned int sec = 0;
         if (wood_time == 0)
         {
             json j;
@@ -1287,7 +1281,6 @@ void *Bconnect(void *arg)
                             close(info->fd_warn);
                         }
                         // 顺序不能反：运气好见到了反了的话，在刚关闭socket还未删节点时出问题：bad file descriptor
-                        delete info;
                         sockMapB.unlock();
                         if (board_name != BBBEFORE)
                         {
@@ -1302,6 +1295,7 @@ void *Bconnect(void *arg)
                             }
                             nodesA.unlock();
                         }
+                        delete info;
                         //errono is thread safe
                         //epoll automatically removes the fined connection from epfd watch queue
                         DEBUG("%d,%s",errno,strerror(errno));
@@ -1339,7 +1333,6 @@ void *Bconnect(void *arg)
                             {
                                 close(info->fd_warn);
                             }
-                            delete info;
                             sockMapB.unlock();
                             if (info->board_name != BBBEFORE)
                             {
@@ -1352,6 +1345,7 @@ void *Bconnect(void *arg)
                                 }
                                 nodesA.unlock();
                             }
+                            delete info;
                             //vicious!!!
                             //compiler should forbid this one, but it doesn't!!Take care 
                             // n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
@@ -1709,11 +1703,6 @@ void *AThread(void *arg)
     pthread_t adata, agraph;
     int connfdData;
     int epfdData, epfdGraph;
-    if (epfdData == -1 | epfdGraph == -1)
-    {
-        perror("AThread epfd create failed");
-        exit(1);
-    }
     ANodeInfo * a_info_1;
     listenAdata = socket(AF_INET, SOCK_STREAM, 0);
     if (listenAdata == -1)
