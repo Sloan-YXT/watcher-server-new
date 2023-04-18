@@ -1802,7 +1802,12 @@ void *AThread(void *arg)
             exit(1);
         }
         len_tmp = ntohl(len_tmp);
-
+        if(len_tmp>200)
+        {
+            FTDEBUG("AThread.log", "len overflow", "len=%d", len_tmp);
+            close(connfdData);
+            continue;
+        }
         n = recv(connfdData, type_buffer, len_tmp, MSG_WAITALL);
         if (n < 0 && errno != ECONNRESET && errno != ETIMEDOUT && errno!=EPIPE)
         {
@@ -1886,6 +1891,7 @@ void *AThread(void *arg)
         nodesA.lock();
         nodesA.emplace(message_buffer, a_info_1);
         nodesA.unlock();
+        FTDEBUG("AThread.log", "AThread new connection", "(%s,%s)", message_buffer, type_buffer);
         auto p = policy_dict.find(t);
         if(p==policy_dict.end())
         {
