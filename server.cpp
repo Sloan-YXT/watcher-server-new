@@ -648,7 +648,7 @@ void *B_L475E_IOT01A(void *args)
         {
             cout << e.what() << endl;
             cout<< "in " << __LINE__ <<"float transfer error" <<endl;
-            FTDEBUG("B-L475E-IOT01A.log", "float transfer error","(%s,%s)",data->temp,data->humi);
+            FTDEBUG("B-L475E-IOT01A.log", "float transfer error","(%s,%s)",data->temp.c_str(),data->humi.c_str());
             cout<<data->temp<<endl;
             cout<<data->humi<<endl;
             goto clean_end;
@@ -970,7 +970,7 @@ void *stm32F103(void *args)
             cout << data->humi <<endl;
             cout << data->light <<endl;
             cout << data->smoke <<endl;
-            FTDEBUG("stm32.log", "float transfer error","(%s,%s,%s,%s)",data->temp,data->humi,data->light,data->smoke);
+            FTDEBUG("stm32.log", "float transfer error","(%s,%s,%s,%s)",data->temp.c_str(),data->humi.c_str(),data->light.c_str(),data->smoke.c_str());
             goto clean_end;
         }
         if (temp > data->high_temp || humi > data->high_humi || light == data->wrong_light || smoke == data->wrong_smoke)
