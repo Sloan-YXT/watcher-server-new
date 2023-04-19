@@ -1351,8 +1351,12 @@ void *Bconnect(void *arg)
                             //compiler should forbid this one, but it doesn't!!Take care 
                             // n = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
                             int n_ = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                            if(n_<0)
+                            {
+                                FTDEBUG("bconnect.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n_,fd,errno,strerror(errno));
+                                exit(1);
+                            }
                             close(fd);
-                            FTDEBUG("bconnect.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n_,fd,errno,strerror(errno));
                             numer.decreaseB();
                         }
                         else if (n < 0 && errno != ECONNRESET && errno != EPIPE &&errno!=ETIMEDOUT)
@@ -1364,8 +1368,27 @@ void *Bconnect(void *arg)
                         else
                         {
                             request[len] = 0;
-                            json j = json::parse(request);
                             FDEBUG("bconnect.log", "<request>\n\n%s\n\n<\\request>", request);
+                            try
+                            {
+                                json j = json::parse(request);
+                            }
+                            catch(exception e)
+                            {
+                                sockMapB.lock();
+                                string board_name = info->board_name;
+                                sockMapB.erase(info->client_name);
+                                sockMapB.unlock();
+                                delete info;
+                                int n_ = epoll_ctl(epfd, EPOLL_CTL_DEL, fd, NULL);
+                                if(n_<0)
+                                {
+                                    FTDEBUG("bconnect.log","record epoll_ctl_del","epoll(n=%d,fd=%d,errno=%d,%s)",n_,fd,errno,strerror(errno));
+                                    exit(1);
+                                }
+                                close(fd);
+                                numer.decreaseB();
+                            }
                             string type = j["type"];
                             if (type == "connect")
                             {
