@@ -454,7 +454,7 @@ void *B_L475E_IOT01A(void *args)
         exit(1);
     }
     len = ntohl(rlen);
-    if(len>MESSAE_LENGTH)
+    if(len>MESSAE_LENGTH|len<0)
     {
         FTDEBUG("B-L475E-IOT01A.log", "len overflow", "len=%d,n=%d,errno=%d,%s",len,n,errno,strerror(errno));
         goto clean_end;
@@ -492,7 +492,7 @@ void *B_L475E_IOT01A(void *args)
         //TO DO: once loose packet, stack overflow when len too much!
         //ok because no packet loose in ISM43362, otherwise change is a must
         //once ISM43362 break down, packet lose is much possible(happened once)
-        if(len>MESSAE_LENGTH)
+        if(len>MESSAE_LENGTH|len<0)
         {
             FTDEBUG("B-L475E-IOT01A.log", "len overflow", "len=%d,n=%d,errno=%d,%s",len,n,errno,strerror(errno));
             goto clean_end;
@@ -524,7 +524,7 @@ void *B_L475E_IOT01A(void *args)
             exit(1);
         }
         len = ntohl(rlen);
-        if(len>MESSAE_LENGTH)
+        if(len>MESSAE_LENGTH|len<0)
         {
             FTDEBUG("B-L475E-IOT01A.log", "len overflow", "len=%d,n=%d,errno=%d,%s",len,n,errno,strerror(errno));
             goto clean_end;
@@ -556,7 +556,7 @@ void *B_L475E_IOT01A(void *args)
             exit(1);
         }
         len = ntohl(rlen);
-        if(len>MESSAE_LENGTH)
+        if(len>MESSAE_LENGTH|len<0)
         {
             FTDEBUG("B-L475E-IOT01A.log", "len overflow", "len=%d,n=%d,errno=%d,%s",len,n,errno,strerror(errno));
             goto clean_end;
@@ -780,7 +780,7 @@ void *stm32F103(void *args)
         exit(1);
     }
     len = ntohl(rlen);
-    if(len>MESSAE_LENGTH)
+    if(len>MESSAE_LENGTH|len<0)
     {
         FTDEBUG("stm32.log", "len overflow", "len=%d,n=%d", len,n);
         goto clean_end;
@@ -1764,7 +1764,7 @@ void *AThread(void *arg)
             exit(1);
         }
         len_tmp = ntohl(len_tmp);
-        if(len_tmp>200)
+        if(len_tmp>200|len_tmp<0)
         {
             FTDEBUG("AThread.log", "len overflow", "len=%d", len_tmp);
             close(connfdData);
@@ -1803,7 +1803,7 @@ void *AThread(void *arg)
             exit(1);
         }
         len_tmp = ntohl(len_tmp);
-        if(len_tmp>200)
+        if(len_tmp>200|len_tmp<0)
         {
             FTDEBUG("AThread.log", "len overflow", "len=%d", len_tmp);
             close(connfdData);
@@ -1933,7 +1933,7 @@ void *BThreadWarn(void *args)
             exit(1);
         }
         len = ntohl(rlen);
-        if(len>200)
+        if(len>200|len<0)
         {
             FTDEBUG("BThreadWarn.log", "len overflow", "len=%d", len);
             close(connfdWarn);
@@ -2026,7 +2026,7 @@ void *BThreadData(void *args)
             exit(1);
         }
         len = ntohl(rlen);
-        if(len>200)
+        if(len>200|len<0)
         {
             FTDEBUG("BThreadData.log", "len overflow", "len=%d", len);
             close(connfdData);
@@ -2208,7 +2208,7 @@ void *BThread(void *arg)
             exit(1);
         }
         len = ntohl(rlen);
-        if(len>200)
+        if(len>200|len<0)
         {
             FTDEBUG("BThread.log", "len overflow", "len=%d", len);
             close(connfdData);
