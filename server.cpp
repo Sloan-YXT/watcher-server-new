@@ -1369,9 +1369,10 @@ void *Bconnect(void *arg)
                         {
                             request[len] = 0;
                             FDEBUG("bconnect.log", "<request>\n\n%s\n\n<\\request>", request);
+                            json j;
                             try
                             {
-                                json j = json::parse(request);
+                                j = json::parse(request);
                             }
                             catch(exception e)
                             {
@@ -1816,7 +1817,7 @@ void *AThread(void *arg)
         if (n == 0 | (n<0 &&( errno == ECONNRESET |  errno==ETIMEDOUT |errno==EPIPE))|n<sizeof(len_tmp))
         {
             FTDEBUG("AThread.log", "AThread recv==0|errno == ECONNRESET", "errno=%d,%s", errno, strerror(errno));
-            FTDEBUG("A.log", "(%s)AThread recv==0|errno == ECONNRESET", "errno=%d,%s", message_buffer, errno, strerror(errno));
+            FTDEBUG("A.log", "AThread recv==0|errno == ECONNRESET", "(%s)errno=%d,%s", message_buffer, errno, strerror(errno));
             close(connfdData);
             continue;
         }
@@ -1841,7 +1842,7 @@ void *AThread(void *arg)
         else if (n == 0 | n<0 | n<len_tmp)
         {
             FTDEBUG("AThread.log", "AThread recv==0|errno == ECONNRESET", "errno=%d,%s", errno, strerror(errno));
-            FTDEBUG("A.log", "(%s)AThread recv==0|errno == ECONNRESET", "errno=%d,%s", message_buffer, errno, strerror(errno));
+            FTDEBUG("A.log", "AThread recv==0|errno == ECONNRESET", "(%s)errno=%d,%s", message_buffer, errno, strerror(errno));
             DEBUG("let me know");
             close(connfdData);
             continue;
