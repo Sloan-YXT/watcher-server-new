@@ -576,6 +576,21 @@ void *B_L475E_IOT01A(void *args)
         printf("message_box:%s\n",message_box);
         FTDEBUG("B-L475E-IOT01A.log", "message","humi:%s",message_box);
         humi = trim(message_box,'0');
+        double temp_in,humi_in;
+        try
+        {
+            temp_in = stod(temp);
+            humi_in = stod(humi);
+        }
+        catch (exception &e)
+        {
+            cout << e.what() << endl;
+            cout<< "in " << __LINE__ <<"float transfer error" <<endl;
+            FTDEBUG("B-L475E-IOT01A.log", "float transfer error","(%s,%s)",temp,humi);
+            cout<<temp<<endl;
+            cout<<humi<<endl;
+            goto clean_end;
+        }
         nodesA.lock();
         data->position = position;
         data->temp = temp;
@@ -638,22 +653,7 @@ void *B_L475E_IOT01A(void *args)
             }
             data->wood_time = clock_after;
         }
-        double temp,humi;
-        try
-        {
-            temp = stod(data->temp);
-            humi = stod(data->humi);
-        }
-        catch (exception &e)
-        {
-            cout << e.what() << endl;
-            cout<< "in " << __LINE__ <<"float transfer error" <<endl;
-            FTDEBUG("B-L475E-IOT01A.log", "float transfer error","(%s,%s)",data->temp.c_str(),data->humi.c_str());
-            cout<<data->temp<<endl;
-            cout<<data->humi<<endl;
-            goto clean_end;
-        }
-        if (temp > data->high_temp || humi > data->high_humi)
+        if (temp_in > data->high_temp || humi_in > data->high_humi)
         {
             json reply;
             string reply_string;
@@ -885,6 +885,28 @@ void *stm32F103(void *args)
         trim(humi);
         FTDEBUG("stm32.log", "data", "recv temp = %s;humi = %s\n", temp, humi);
         // data->writeVal();
+        double temp_in;
+        double humi_in;
+        double light_in;
+        double smoke_in;
+        try
+        {
+            temp_in = stod(temp);
+            humi_in = stod(humi);
+            light_in = stod(light);
+            smoke_in = stod(smoke);
+        }
+        catch (exception &e)
+        {
+            cout << e.what() << endl;
+            cout<< "in " << __LINE__ <<"float transfer error" <<endl;
+            cout << temp <<endl;
+            cout << humi <<endl;
+            cout << light <<endl;
+            cout << smoke <<endl;
+            FTDEBUG("stm32.log", "float transfer error","(%s,%s,%s,%s)",temp,humi,light,smoke);
+            goto clean_end;
+        }
         nodesA.lock();
         data->temp = temp;
         data->humi = humi;
@@ -950,30 +972,7 @@ void *stm32F103(void *args)
                 }
             }
         }
-        double temp;
-        double humi;
-        double light;
-        double smoke;
-        int res;
-        try
-        {
-            temp = stod(data->temp);
-            humi = stod(data->humi);
-            light = stod(data->light);
-            smoke = stod(data->smoke);
-        }
-        catch (exception &e)
-        {
-            cout << e.what() << endl;
-            cout<< "in " << __LINE__ <<"float transfer error" <<endl;
-            cout << data->temp <<endl;
-            cout << data->humi <<endl;
-            cout << data->light <<endl;
-            cout << data->smoke <<endl;
-            FTDEBUG("stm32.log", "float transfer error","(%s,%s,%s,%s)",data->temp.c_str(),data->humi.c_str(),data->light.c_str(),data->smoke.c_str());
-            goto clean_end;
-        }
-        if (temp > data->high_temp || humi > data->high_humi || light == data->wrong_light || smoke == data->wrong_smoke)
+        if (temp_in > data->high_temp || humi_in > data->high_humi || light_in == data->wrong_light || smoke_in == data->wrong_smoke)
         {
             json reply;
             string reply_string;
