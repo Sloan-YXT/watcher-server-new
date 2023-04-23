@@ -1922,10 +1922,17 @@ void *AThread(void *arg)
             printf("unknown policy required:%s(line %d)\n",t,__LINE__);
             exit(1);
         }
+        pthread_t trhead_id = *(a_info_1->threadVal.get());
         if(pthread_create(a_info_1->threadVal.get(), NULL, p->second, a_info_1)!=0)
         {
             FTDEBUG("AThread.log", "AThread thread create fail", "(%s,%s,%d,%s)", message_buffer, type_buffer,errno,strerror(errno));
             cout<<"Athread create thread fail!"<<endl;
+            exit(1);
+        }
+        if(pthread_detach(trhead_id)!=0)
+        {
+            FTDEBUG("AThread.log", "AThread thread create fail", "(%s,%s,%d,%s)", message_buffer, type_buffer,errno,strerror(errno));
+            cout<<"Athread detach thread fail!"<<endl;
         }
         numer.increaseA();
     }
