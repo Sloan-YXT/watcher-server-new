@@ -1924,7 +1924,7 @@ void *AThread(void *arg)
         }
         if(pthread_create(a_info_1->threadVal.get(), NULL, p->second, a_info_1)!=0)
         {
-            FTDEBUG("AThread.log", "AThread thread create fail", "(%s,%s)", message_buffer, type_buffer);
+            FTDEBUG("AThread.log", "AThread thread create fail", "(%s,%s,%d,%s)", message_buffer, type_buffer,errno,strerror(errno));
             cout<<"Athread create thread fail!"<<endl;
         }
         numer.increaseA();
