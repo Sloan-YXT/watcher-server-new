@@ -1922,7 +1922,11 @@ void *AThread(void *arg)
             printf("unknown policy required:%s(line %d)\n",t,__LINE__);
             exit(1);
         }
-        ERROR_ACTION(pthread_create(a_info_1->threadVal.get(), NULL, p->second, a_info_1));
+        if(pthread_create(a_info_1->threadVal.get(), NULL, p->second, a_info_1)!=0)
+        {
+            FTDEBUG("AThread.log", "AThread thread create fail", "(%s,%s)", message_buffer, type_buffer);
+            cout<<"Athread create thread fail!"<<endl;
+        }
         numer.increaseA();
     }
     DEBUG("............................ATH quiting..................................");
