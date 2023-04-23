@@ -432,9 +432,16 @@ void *raspi(void *args)
 {
 
 }
+void setUpRoutine(void *args)
+{
+    ANodeInfo *data = (ANodeInfo *)args;
+    pthread_t *id = data->threadVal.get();
+    pthread_detach(*id);
+}
 void *B_L475E_IOT01A(void *args)
 {
     ANodeInfo *data = (ANodeInfo *)args;
+    setUpRoutine(args);
     int fd_data = data->fd_data;
     char message_box[MESSAE_LENGTH];
     int len, rlen, n;
@@ -760,6 +767,7 @@ void *B_L475E_IOT01A(void *args)
 void *stm32F103(void *args)
 {
     ANodeInfo *data = (ANodeInfo *)args;
+    setUpRoutine(args);
     int fd_data = data->fd_data;
     int len, rlen, n;
     char temp[18], humi[18], light[2], smoke[2];
@@ -1922,17 +1930,11 @@ void *AThread(void *arg)
             printf("unknown policy required:%s(line %d)\n",t,__LINE__);
             exit(1);
         }
-        pthread_t trhead_id = *(a_info_1->threadVal.get());
         if(pthread_create(a_info_1->threadVal.get(), NULL, p->second, a_info_1)!=0)
         {
             FTDEBUG("AThread.log", "AThread thread create fail", "(%s,%s,%d,%s)", message_buffer, type_buffer,errno,strerror(errno));
             cout<<"Athread create thread fail!"<<endl;
             exit(1);
-        }
-        if(pthread_detach(trhead_id)!=0)
-        {
-            FTDEBUG("AThread.log", "AThread thread create fail", "(%s,%s,%d,%s)", message_buffer, type_buffer,errno,strerror(errno));
-            cout<<"Athread detach thread fail!"<<endl;
         }
         numer.increaseA();
     }
