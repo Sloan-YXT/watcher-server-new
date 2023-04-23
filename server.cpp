@@ -586,7 +586,7 @@ void *B_L475E_IOT01A(void *args)
         {
             cout << e.what() << endl;
             cout<< "in " << __LINE__ <<"float transfer error" <<endl;
-            FTDEBUG("B-L475E-IOT01A.log", "float transfer error","(%s,%s)",temp,humi);
+            FTDEBUG("B-L475E-IOT01A.log", "float transfer error","(%s,%s)",temp.c_str(),humi.c_str());
             cout<<temp<<endl;
             cout<<humi<<endl;
             goto clean_end;
@@ -620,7 +620,7 @@ void *B_L475E_IOT01A(void *args)
             }
             catch(exception &e)
             {
-                FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->state,data->name,data->position);
+                FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp.c_str(),data->humi.c_str(),data->state.c_str(),data->name.c_str(),data->position.c_str());
                 exit(1);
             }
         }
@@ -648,7 +648,7 @@ void *B_L475E_IOT01A(void *args)
             }
             catch(exception &e)
             {
-                FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->state,data->name,data->position);
+                FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp.c_str(),data->humi.c_str(),data->state.c_str(),data->name.c_str(),data->position.c_str());
                 exit(1);
             }
             data->wood_time = clock_after;
@@ -677,7 +677,7 @@ void *B_L475E_IOT01A(void *args)
             }
             catch(exception &e)
             {
-                FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->light,data->smoke,data->position,data->state);
+                FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp.c_str(),data->humi.c_str(),data->state.c_str(),data->name.c_str(),data->position.c_str());
                 exit(1);
             }
             DEBUG("before send data to B");
@@ -939,7 +939,7 @@ void *stm32F103(void *args)
             }
             catch(exception &e)
             {
-                FTDEBUG("B-L475E-IOT01A.log", "parse err","(%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->state,data->name,data->position);
+                FTDEBUG("stm32.log", "parse err","(%s,%s,%s,%s,%s,%s,%s)",e.what(),data->temp.c_str(),data->humi.c_str(),data->light.c_str(),data->smoke.c_str(),data->name.c_str(),data->position.c_str());
                 exit(1);
             }
         }
@@ -967,7 +967,7 @@ void *stm32F103(void *args)
                 }
                 catch(exception &e)
                 {
-                    FTDEBUG("stm32.log", "parse err","(%s,%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->light,data->smoke,data->name,data->position);
+                    FTDEBUG("stm32.log", "parse err","(%s,%s,%s,%s,%s,%s,%s)",e.what(),data->temp.c_str(),data->humi.c_str(),data->light.c_str(),data->smoke.c_str(),data->name.c_str(),data->position.c_str());
                     exit(1);
                 }
             }
@@ -996,7 +996,7 @@ void *stm32F103(void *args)
             }
             catch(exception &e)
             {
-                FTDEBUG("stm32.log", "parse err","(%s,%s,%s,%s,%s,%s,%s,%s)",e.what(),data->temp,data->humi,data->light,data->smoke,data->position,data->state);
+                FTDEBUG("stm32.log", "parse err","(%s,%s,%s,%s,%s,%s,%s)",e.what(),data->temp.c_str(),data->humi.c_str(),data->light.c_str(),data->smoke.c_str(),data->name.c_str(),data->position.c_str());
                 exit(1);
             }
             DEBUG("before send data to B");
