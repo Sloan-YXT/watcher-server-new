@@ -268,6 +268,7 @@ CMakeFiles/server.dir/database.cpp.o: \
  /usr/local/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
  /home/yaoxuetao/Desktop/watcher-server-new/cutil.h \
  /home/yaoxuetao/Desktop/watcher-server-new/data.h \
+ /home/yaoxuetao/Desktop/watcher-server-new/database.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/stack \
  /usr/include/c++/11/deque /usr/include/c++/11/bits/stl_deque.h \
  /usr/include/c++/11/bits/deque.tcc /usr/include/c++/11/bits/stl_stack.h

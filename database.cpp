@@ -5,6 +5,7 @@
 #include <string.h>
 #include "cutil.h"
 #include "data.h"
+#include "database.h"
 #include <string>
 #include <iostream>
 #include <stack>
@@ -82,12 +83,6 @@ void database_init()
         exit(1);
     }
     MYSQL_RES *pRes;
-    if (mysql_query(&mydata_A, timeout_set))
-    {
-        printf("create board_table failed!\n");
-        printf("MySQL query error : %s/n", mysql_error(&mydata_A));
-        exit(1);
-    }
     if (mysql_query(&mydata_A, create_database))
     {
         printf("create board_table failed!\n");
@@ -101,13 +96,18 @@ void database_init()
         perror("");
         exit(1);
     }
+    if (mysql_query(&mydata_A, timeout_set))
+    {
+        printf("create board_table failed!\n");
+        printf("MySQL query error : %s/n", mysql_error(&mydata_A));
+        exit(1);
+    }
     if (mysql_query(&mydata_A, create_board_tale))
     {
         printf("create board_table failed!\n");
         printf("MySQL query error : %s/n", mysql_error(&mydata_A));
         exit(1);
-    };
-    
+    }
     routine_delete();
     // do
     // {
