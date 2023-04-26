@@ -1375,7 +1375,7 @@ void *Bconnect(void *arg)
                         else
                         {
                             request[len] = 0;
-                            FDEBUG("bconnect.log", "<request>\n\n%s\n\n<\\request>", request);
+                            FTDEBUG("bconnect.log", "request","\n\n%s\n\n", request);
                             json j;
                             try
                             {
@@ -1396,6 +1396,7 @@ void *Bconnect(void *arg)
                                 }
                                 close(fd);
                                 numer.decreaseB();
+                                continue;
                             }
                             string type = j["type"];
                             if (type == "connect")
