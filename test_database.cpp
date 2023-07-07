@@ -9,7 +9,7 @@ int main(void)
     database_init();
     for (int i = 0; i < 10; i++)
     {
-        string res = get_month_data(1, "yaoxuetao's raspi");
+        string res = get_month_data(4, "yaoxuetao's raspi");
         cout << res << endl;
         delete_data(1, "yaoxuetao's raspi");
         sleep(5);

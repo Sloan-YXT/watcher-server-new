@@ -5,6 +5,7 @@
 #include <string.h>
 #include "cutil.h"
 #include "data.h"
+#include "database.h"
 #include <string>
 #include <iostream>
 #include <stack>
@@ -33,6 +34,7 @@ static const char *create_board_tale =
     ");";
 char deleteA[100] =
     "delete from board_data where month !=";
+char *timeout_set = "set session WAIT_TIMEOUT=3600000;";
 void routine_delete()
 {
     struct tm *now;
@@ -86,7 +88,7 @@ void database_init()
         printf("create board_table failed!\n");
         printf("MySQL query error : %s/n", mysql_error(&mydata_A));
         exit(1);
-    };
+    }
     mysql_close(&mydata_A);
     if (NULL == mysql_real_connect(&mydata_A, "localhost", "root", "Yy649535675", database, 3306, NULL, CLIENT_MULTI_STATEMENTS))
     {
@@ -94,13 +96,18 @@ void database_init()
         perror("");
         exit(1);
     }
+    if (mysql_query(&mydata_A, timeout_set))
+    {
+        printf("create board_table failed!\n");
+        printf("MySQL query error : %s/n", mysql_error(&mydata_A));
+        exit(1);
+    }
     if (mysql_query(&mydata_A, create_board_tale))
     {
         printf("create board_table failed!\n");
         printf("MySQL query error : %s/n", mysql_error(&mydata_A));
         exit(1);
-    };
-    
+    }
     routine_delete();
     // do
     // {
