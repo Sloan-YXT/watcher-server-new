@@ -1771,7 +1771,7 @@ void *AThread(void *arg)
     {
         DEBUG("ATH working");
         connfdData = accept(listenAdata, (struct sockaddr *)&client_data, &client_data_addr_len);
-        setup_tcp_keepalive(connfdData,1);
+        //setup_tcp_keepalive(connfdData,1);
         if (connfdData < 0)
         {
             //gdb
@@ -1779,6 +1779,8 @@ void *AThread(void *arg)
             continue;
             // exit(1);
         }
+        //put beyond if leads to bad file descriptor 
+        setup_tcp_keepalive(connfdData,1);
         //bug here:if we suspend for 10s on board, data sequence is fucked up!
         n = recv(connfdData, &len_tmp, sizeof(len_tmp), MSG_WAITALL);
         //errno==110:time out

@@ -444,6 +444,7 @@ CMakeFiles/server.dir/database.cpp.o: database.cpp \
   /usr/local/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
   cutil.h \
   data.h \
+  database.h \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/stack \
   /usr/include/c++/11/deque \
@@ -1032,9 +1033,9 @@ data.h:
 
 /usr/include/c++/11/bits/mask_array.h:
 
-database.h:
-
 /usr/include/x86_64-linux-gnu/bits/struct_stat.h:
+
+database.h:
 
 /usr/include/c++/11/bits/gslice_array.h:
 
